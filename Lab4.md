@@ -123,6 +123,4 @@ numSamples
 ```r
 plot(myTime[0:numSamples], strain[0:numSamples], type = "l", xlab = "GPS Time (s)", ylab = "H1 Strain")
 ```
-```
 ![plot.png](plot.png)
-```
